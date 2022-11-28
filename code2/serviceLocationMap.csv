@@ -1,0 +1,49 @@
+FROM/TO LOCATION,TO/FROM LOCATION,ESTIMATED DISTANCE (Miles)
+Stourton,Woolaston,1
+Woolaston,Stourbridge,1
+Stourbridge,Lye,2
+Lye,Halesowen,3
+Halesowen,Quinton,2
+Quinton,Harborne,1
+Harborne,Chad Valley,1
+Chad Valley,Digbeth,5
+Digbeth,Tyseley,6
+Tyseley,Acocks Green,1
+Acocks Green,Olton,1
+Olton,Solihull,2
+Harborne,Bearwood,1
+Bearwood,Warley,1
+Bearwood,Smethwick,2
+Smethwick,Warley,1
+Smethwick,Oldbury,3
+Oldbury,West Bromwich,2
+Stourbridge,Withymoor,2
+Withymoor,Brierley Hill,1
+Brierley Hill,Woodside,1
+Woodside,Dudley,3
+Dudley,Kates Hill,1
+Kates Hill,Tividale,2
+Tividale,Oldbury,3
+Kates Hill,Rowley Regis,3
+Rowley Regis,Blackheath,1
+Blackheath,Lapal,3
+Lapal,Quinton,4
+Quinton,Brandhall,1
+Brandhall,Causeway Green,1
+Causeway Green,Langley Green,1
+Langley Green,Oldbury,2
+Brierley Hill,Netherton,1
+Netherton,Darby End,1
+Darby End,Blackheath,2
+Netherton,Old Hill,3
+Old Hill,Halesowen,4
+Stourbridge,Hagley,4
+Hagley,Quinton,5
+Lapal,Blackheath,2
+Summerfield,Warley,2
+Summerfield,Rotton Park,1
+Rotton Park,Harborne,3
+Chad Valley,Edgbaston,1
+Westside,Edgbaston,1
+Langley Green,Londonderry,1
+Londonderry,Bearwood,2

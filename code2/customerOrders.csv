@@ -1,0 +1,27 @@
+Order of Input,Priority,Customer Name,Crates in Order,Location
+1,Standard,Mummy Pig,4,Brierley Hill
+2,Standard,Miss Rabbit,5,Dudley
+3,Standard,Mrs Rabbit,3,Kates Hill
+4,Prioritised,Bob the Builder,2,Lye
+5,Urgent,Wendy,6,Harborne
+6,Standard,Mrs Giraffe,10,Quinton
+7,Prioritised,Grandpa Pig,8,Warley
+8,Prioritised,Madame Gazelle,4,West Bromwich
+9,Urgent,Grandpa Dog,2,Digbeth
+10,Standard,Dr Elephant,18,Solihull
+11,Urgent,Mr Fox,4,Lye
+12,Prioritised,Mrs Pony,5,Halesowen
+13,Standard,Mrs Zebra,3,Acocks Green
+14,Prioritised,Mr Bull,2,Woodside
+15,Standard,Mr Cat,5,Lapal
+16,Standard,Mrs Sheep,12,Brandhall
+17,Standard,Dr Mole,6,Brierley Hill
+18,Prioritised,Mrs Mouse,2,Oldbury
+19,Standard,Mamam Goat,7,Darby End
+20,Urgent,Mademoiselle Potato,2,Old Hill
+21,Standard,Mrs Bear,3,Langley Green
+22,Prioritised,Captain Daddy Dog,4,Netherton
+23,Standard,Mrs Cow,5,Smethwick
+24,Prioritised,Mr Labrador,15,Withymoor
+25,Standard,Mr Lion,2,Olton
+26,Standard,Mr Rhinoceros,6,Rowley Regis
